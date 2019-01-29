@@ -25,6 +25,9 @@ html {
 }
 
 .banner {
+  display: block;
+  position: relative;
+  max-height:460px;
 
 }
 
